@@ -1,4 +1,4 @@
 .pio
 .clang_complete
-secrets.h
+secrets_local.h
 platformio.ini
