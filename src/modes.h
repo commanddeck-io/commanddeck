@@ -2,7 +2,7 @@
 const byte n_rows = 4;
 const byte n_cols = 4;
 
-const byte numModes = 4;
+const byte numModes = 5;
 
 // Define the names of your modes, and on the array below map the keypad keys to commands, in the same order you defined the modes
 static char *modes[] PROGMEM = {"Clojure",
@@ -100,7 +100,7 @@ static char *modes[] PROGMEM = {"Clojure",
 */
 static char *keys[numModes][n_rows][n_cols] PROGMEM = {
     { // Clojure
-      {"ESC ESC SPC m e b", "ESC ESC SPC m e f", "", ""},
+     {"ESC ESC SPC m e b", "ESC ESC SPC m e f", "lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET", ""},
       {""                 , ""                 , "", ""},
       {""                 , ""                 , "", ""},
       {"Clojure"          , ""                 , "", ""}
