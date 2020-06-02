@@ -10,7 +10,7 @@ Mainly, such devices are useful for streamer to perform quick reactions to conte
 
 - Supports virtually unlimited modes (i.e. sets of [keypad key -> action] mappings), you are only limited by NodeMCU's 4MB flash
 - Basically all keyboard keys are supported, including modifiers
-- Macros can become as complex as you like
+- Macros can become as complex as you like (check modes.h)
 - Programmable delays
 - Fine-control of key press and release
 - Over-the-Air updates

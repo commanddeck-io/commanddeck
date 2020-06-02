@@ -9,6 +9,7 @@ static char *modes[] PROGMEM = {"Clojure",
                                 "Arduino",
                                 "Go",
                                 "i3",
+                                "OBS",
                                 NULL /* keep this */};
 
 // Define your keybindings here
@@ -117,9 +118,15 @@ static char *keys[numModes][n_rows][n_cols] PROGMEM = {
      {"Go" , "" ,"", ""}
     },
     { // i3
-      {"SPC m e b", "SPC m e f", "", ""},
-      {""         , ""         , "", ""},
-      {""         , ""         , "", ""},
-      {"i3"       , ""         , "", ""}
+      {""  , "", "", ""},
+      {""  , "", "", ""},
+      {""  , "", "", ""},
+      {"i3", "", "", ""}
     },
+    { // OBS
+     {""  , "", "", ""},
+     {""  , "", "", ""},
+     {""  , "", "", ""},
+     {"OBS", "", "", ""}
+    }
 };
