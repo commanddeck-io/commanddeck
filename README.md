@@ -41,7 +41,7 @@ TO-DO
 
 - Create your actions on modes.h, follow the examples there to get started.
 
-- Move secrets_example.h to secrets.h and edit the information in it accordingly
+- Edit secrets.h accordingly
 
 - Move platformio_example.ini to platformio.ini, but don't uncomment the last lines yet
 
