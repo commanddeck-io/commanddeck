@@ -5,10 +5,10 @@ const byte n_cols = 4;
 const byte numModes = 5;
 
 // Define the names of your modes, and on the array below map the keypad keys to commands, in the same order you defined the modes
-static char *modes[] PROGMEM = {"Clojure",
-                                "Arduino",
-                                "Go",
-                                "i3",
+static char *modes[] PROGMEM = {"Spacemacs Clojure",
+                                "Spacemacs Arduino",
+                                "Spacemacs Go",
+                                "Spacemacs i3",
                                 "OBS",
                                 NULL /* keep this */};
 
@@ -100,10 +100,10 @@ static char *modes[] PROGMEM = {"Clojure",
 */
 static char *keys[numModes][n_rows][n_cols] PROGMEM = {
     { // Clojure
-     {"ESC ESC SPC m e b", "ESC ESC SPC m e f", "lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET", ""},
-      {""                 , ""                 , "", ""},
-      {""                 , ""                 , "", ""},
-      {"Clojure"          , ""                 , "", ""}
+      {"ESC ESC SPC m e b", "ESC ESC SPC m e f", "lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET", ""},
+      {""                 , ""                , ""                                                                    , ""},
+      {""                 , ""                , ""                                                                    , ""},
+      {"Clojure"          , ""                , ""                                                                    , ""}
     },
     { // Arduino
      {"ESC ESC +L_CTRL C -L_CTRL i u", "", ""                             , ""},
@@ -118,15 +118,15 @@ static char *keys[numModes][n_rows][n_cols] PROGMEM = {
      {"Go" , "" ,"", ""}
     },
     { // i3
-      {""  , "", "", ""},
-      {""  , "", "", ""},
-      {""  , "", "", ""},
-      {"i3", "", "", ""}
+      {"+L_WIN 1"  , "+L_WIN 2", "+L_WIN 3"         , "+L_WIN +L_SHIFT R"},
+      {"+L_WIN 4"  , "+L_WIN 5", "+L_WIN 6"         , "+L_WIN T"         },
+      {"+L_WIN 7"  , "+L_WIN 8", "+L_WIN 9"         , ""                 },
+      {"i3"        , "+L_WIN 0", "+L_WIN +L_SHIFT E", ""                 }
     },
     { // OBS
-     {""  , "", "", ""},
-     {""  , "", "", ""},
-     {""  , "", "", ""},
+     {""   , "", "", ""},
+     {""   , "", "", ""},
+     {""   , "", "", ""},
      {"OBS", "", "", ""}
     }
 };
