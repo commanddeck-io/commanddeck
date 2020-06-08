@@ -1,0 +1,694 @@
+{
+   "groups":[
+      {
+         "name":"Spacemacs Clojure",
+         "keys":[
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            }
+         ]
+      },
+      {
+         "name":"Spacemacs Clojure",
+         "keys":[
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            }
+         ]
+      },
+      {
+         "name":"Spacemacs Clojure",
+         "keys":[
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            }
+         ]
+      },
+      {
+         "name":"Spacemacs Clojure",
+         "keys":[
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            }
+         ]
+      },
+      {
+         "name":"Spacemacs Clojure",
+         "keys":[
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            }
+         ]
+      },
+      {
+         "name":"Spacemacs Clojure",
+         "keys":[
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            }
+         ]
+      },
+      {
+         "name":"Spacemacs Clojure",
+         "keys":[
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            }
+         ]
+      },
+      {
+         "name":"Spacemacs Clojure",
+         "keys":[
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            }
+         ]
+      },
+      {
+         "name":"Spacemacs Clojure",
+         "keys":[
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            }
+         ]
+      },
+      {
+         "name":"Spacemacs Clojure",
+         "keys":[
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            },
+            {
+               "name":"Eval Buffer",
+               "command":"lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET"
+            }
+         ]
+      }
+   ]
+}

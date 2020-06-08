@@ -1,3 +1,6 @@
 [submodule "lib/Encoder"]
 	path = lib/Encoder
 	url = https://github.com/RLars/Encoder.git
+[submodule "lib/MemoryFree"]
+	path = lib/MemoryFree
+	url = https://github.com/McNeight/MemoryFree

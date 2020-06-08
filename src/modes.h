@@ -1,8 +1,8 @@
 // Modes
+#define ARRAY_SIZE(x) sizeof(x)/sizeof(x[0])
+
 const byte n_rows = 4;
 const byte n_cols = 4;
-
-const byte numModes = 5;
 
 // Define the names of your modes, and on the array below map the keypad keys to commands, in the same order you defined the modes
 static char *modes[] PROGMEM = {"Spacemacs Clojure",
@@ -10,7 +10,10 @@ static char *modes[] PROGMEM = {"Spacemacs Clojure",
                                 "Spacemacs Go",
                                 "Spacemacs i3",
                                 "OBS",
-                                NULL /* keep this */};
+                                "test",
+                                "Info"};
+
+const byte numModes = ARRAY_SIZE(modes);
 
 // Define your keybindings here
 /* Just think of your keypad positions
@@ -37,7 +40,6 @@ static char *modes[] PROGMEM = {"Spacemacs Clojure",
   SPC = a literal space, needed since by default spaces are command separators
 
   // A releaseAll is always invoked at the end, but you can issue it at any time
-  BRK = Release all modifier keys (Ctrl, Alt, Shift, Win)
   REL = Release all modifier keys (Ctrl, Alt, Shift, Win)
 
   // Arrow keys
@@ -47,10 +49,8 @@ static char *modes[] PROGMEM = {"Spacemacs Clojure",
   D_ARROW = Down Arrow
 
   // Other keys
-  ENTER    = Enter
   RET      = Enter
   ESC      = Esc
-  BACKSPC  = Backspace
   BACK     = Backspace
   TAB      = Tab
   INS      = Insert
@@ -60,7 +60,6 @@ static char *modes[] PROGMEM = {"Spacemacs Clojure",
   HOME     = Home
   END      = End
   CAPS     = Caps Lock
-  CAPSLOCK = Caps Lock
 
   // Function keys
   F1  = Function Key 1
@@ -100,16 +99,16 @@ static char *modes[] PROGMEM = {"Spacemacs Clojure",
 */
 static char *keys[numModes][n_rows][n_cols] PROGMEM = {
     { // Clojure
-      {"ESC ESC SPC m e b", "ESC ESC SPC m e f", "lein SPC clean; lein SPC lint; lein SPC lint-fix; lein SPC test RET", ""},
+      {"#ESC|#ESC|meb", "#ESC|#ESC|mef", "lein clean; lein lint; lein lint-fix; lein test|#RET", ""},
       {""                 , ""                , ""                                                                    , ""},
       {""                 , ""                , ""                                                                    , ""},
       {"Clojure"          , ""                , ""                                                                    , ""}
     },
     { // Arduino
-     {"ESC ESC +L_CTRL C -L_CTRL i u", "", ""                             , ""},
+     {"#ESC|#ESC|#+L_CTRL C|#-L_CTRL|iu", "", ""                             , ""},
      {""                             , "", ""                             , ""},
      {""                             , "", ""                             , ""},
-     {"Arduino"                      , "", "ESC ESC +L_CTRL C -L_CTRL i c", ""}
+     {"Arduino"                      , "", "#ESC|#ESC|#+L_CTRL_C|#-L_CTRL|ic", ""}
     },
     { // Go
      {""   , "", "", ""},
@@ -118,15 +117,22 @@ static char *keys[numModes][n_rows][n_cols] PROGMEM = {
      {"Go" , "" ,"", ""}
     },
     { // i3
-      {"+L_WIN 1"  , "+L_WIN 2", "+L_WIN 3"         , "+L_WIN +L_SHIFT R"},
-      {"+L_WIN 4"  , "+L_WIN 5", "+L_WIN 6"         , "+L_WIN T"         },
-      {"+L_WIN 7"  , "+L_WIN 8", "+L_WIN 9"         , ""                 },
-      {"i3"        , "+L_WIN 0", "+L_WIN +L_SHIFT E", ""                 }
+      {"#+L_WIN|1"  , "#+L_WIN|2", "#+L_WIN|3"         , "#+L_WIN|#+L_SHIFT|R"},
+      {"#+L_WIN|4"  , "#+L_WIN|5", "#+L_WIN|6"         , "#+L_WIN|T"         },
+      {"#+L_WIN|7"  , "#+L_WIN|8", "#+L_WIN|9"         , ""                 },
+      {"i3"        , "#+L_WIN|0", "#+L_WIN|#+L_SHIFT|E", ""                 }
     },
     { // OBS
      {""   , "", "", ""},
      {""   , "", "", ""},
      {""   , "", "", ""},
-     {"OBS", "", "", ""}
+     {"OBS", "", "", ""},
+    },
+    { // test
+
+     {"lein clean; lein lint; lein lint-fix; lein test|#RET"   , "lein clean; lein lint; lein lint-fix; lein test|#RET", "lein clean; lein lint; lein lint-fix; lein test|#RET", "lein clean; lein lint; lein lint-fix; lein test|#RET"},
+     {"lein clean; lein lint; lein lint-fix; lein test|#RET"   , "lein clean; lein lint; lein lint-fix; lein test|#RET", "lein clean; lein lint; lein lint-fix; lein test|#RET", "lein clean; lein lint; lein lint-fix; lein test|#RET"},
+     {"lein clean; lein lint; lein lint-fix; lein test|#RET"   , "lein clean; lein lint; lein lint-fix; lein test|#RET", "lein clean; lein lint; lein lint-fix; lein test|#RET", "lein clean; lein lint; lein lint-fix; lein test|#RET"},
+     {"lein clean; lein lint; lein lint-fix; lein test|#RET", "lein clean; lein lint; lein lint-fix; lein test|#RET", "lein clean; lein lint; lein lint-fix; lein test|#RET", "lein clean; lein lint; lein lint-fix; lein test|#RET"},
     }
 };
